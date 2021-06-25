@@ -1,0 +1,3 @@
+C:/Users/Usuario/Pictures/POO2Proyecto/cmake-build-debug/CMakeFiles/POO2Proyecto.dir
+C:/Users/Usuario/Pictures/POO2Proyecto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Usuario/Pictures/POO2Proyecto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
